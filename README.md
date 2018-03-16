@@ -1,2 +1,3 @@
-# LearningPython3-begin-
-Learn  Python 3 from beginning
+# LearningPython3.0
+
+This Project is for learning Python 3
