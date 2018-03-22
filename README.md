@@ -12,8 +12,10 @@ This Project is for learning Python 3
 
 2.3 pip升级 python -m pip install --upgrade pip
 
-2.4 pip安装扩展包 pip install jieba （这里以jieba包为例），如果速度较慢，可改为国内的阿里源， 即 pip install jieba -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
-3 安装pycharm http://www.jetbrains.com/pycharm/
+2.4 pip安装扩展模块 pip install numpy （如numpy、scipy、matplotlib、skt-learn等）
+
+3 安装pycharm http://www.jetbrains.com/pycharm/（激活自行百度）
+
 4 使用GitHub获取代码
 
 4.1 安装git https://git-scm.com/
